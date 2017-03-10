@@ -8,4 +8,4 @@ Opdracht 3:
 * Bij opdracht 3 moesten we een kalender weergeven en als de gebruiker een datum selecteerde moest de computer berekenen wat je leeftijd is.
 
 Opdracht 4:
-* Bij opdracht 4 moesten we met datums aan de slag, we moesten eerst de huidige tijd en datum laten zien en daarna moesten we het zo programmeren hoelang het nog duurd voordat het pasen is in uur, minuten, seconden.
+* Bij opdracht 4 moesten we met datums aan de slag, we moesten eerst de huidige tijd en datum laten zien en daarna moesten we het zo programmeren hoelang het nog duurt voordat het pasen is in uur, minuten, seconden.
