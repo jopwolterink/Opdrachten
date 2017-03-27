@@ -1,0 +1,15 @@
+Opdracht 5:
+1.
+ Je hebt twee types:
+ *Integers
+ *Strings
+ Als je wilt dat je met getallen werkt dus bijvoorbeeld getal 1 tussen de 100 dan moet je de type integer gebruiken.
+ Als je wilt dat je met woorden en letters gaat werken dan moet je werken met het type string.
+
+2.
+ Zet display op Dynamic.
+
+3.
+ -
+
+4.
