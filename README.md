@@ -15,3 +15,9 @@ Opdracht 5:
 
 Opdracht 6:
 * Bij opdracht 6 moesten we met een grafische rekenmachine aan de slag, we moesten een grafische rekenmachine maken in de browser. Daarbij moesten we alle functies toepassen.
+
+Opdracht 7:
+* Bij opdracht 7 moesten we een tafeltester maken. De gebruiker moest het maximum van de tafel invoeren en het programma moest daarna de sommen gaan aanmaken. Daarna moet het programma de sommen gaan controleren of het goed of fout is. Tot slot geeft het programma een cijfer weer.
+
+Opdracht 8:
+* Bij opdracht 8 moesten we een website responsive maken. Bij oefening 10 hadden we al een database geintregeerd voor films. Je moest de website responsive maken met behulp van procenten.
